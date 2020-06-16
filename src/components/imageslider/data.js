@@ -1,4 +1,4 @@
-import cola from "../../img/my/01 - Copy.jpg";
+import cola from "../../img/my/01.jpg";
 import image2 from "../../img/my/02.jpg";
 import image3 from "../../img/my/03.jpg";
 import image4 from "../../img/my/04.jpg";
