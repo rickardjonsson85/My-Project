@@ -48,8 +48,13 @@ class slider extends Component {
         <div>
           <button onClick={() => this.prevImage()}>BACK</button>
           <button onClick={() => this.nextImage()}>NEXT</button>
-          <PageNum property={property} />
-          <PageNum property={property} />,
+          <br />
+          <div className="slider">
+            <PageNum property={property} />
+          </div>
+          <div className="slider">
+            <PageNum property={property} />
+          </div>
         </div>
       );
     } else {
